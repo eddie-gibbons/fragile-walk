@@ -9,11 +9,14 @@
 1. Clone the Repository and cd
    ```bash
    git clone https://github.com/eddie-gibbons/fragile-walk.git
-   cd fragile-walk```
+   cd fragile-walk
+   ```
 2. Compile the Program
 	```bash
-	javac src/*.java -d bin```
+	javac src/*.java -d bin
+	```
 3. Run the Program 
 	```bash
-	java -cp bin Main```
+	java -cp bin Main
+	```
   
