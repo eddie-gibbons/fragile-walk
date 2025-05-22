@@ -178,7 +178,6 @@ public class GameFrame extends JFrame {
 	}
 	
 	public void handleNoMoves() {
-		System.out.println("No more moves");
 		loadLevel( levelList.get(levelIndex) );
 	}
 	
