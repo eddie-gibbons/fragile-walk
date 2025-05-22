@@ -6,16 +6,19 @@
 
 ## Set up
 
-1. Clone the Repository and cd
+1. Clone the Repository
    ```bash
    git clone https://github.com/eddie-gibbons/fragile-walk.git
+   ```
+2. Change Directory
+    ```bash
    cd fragile-walk
    ```
-2. Compile the Program
+3. Compile the Program
 	```bash
 	javac src/*.java -d bin
 	```
-3. Run the Program 
+4. Run the Program 
 	```bash
 	java -cp bin Main
 	```
